@@ -1,0 +1,1 @@
+# Aula07pt1_PatternsCriacionais
